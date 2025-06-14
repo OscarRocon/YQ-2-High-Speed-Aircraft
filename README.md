@@ -52,6 +52,3 @@ Each part should be printed using the following settings:
    - Check voltage levels.  
    - Perform a transmitter range check.  
 
----
-
-✈️ **You're now ready to fly your YQ-2!**
